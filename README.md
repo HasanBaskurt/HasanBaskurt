@@ -4,9 +4,9 @@
  </a>
 </div>
 
-# 💫 About Me:
+# 🤵 About Me:
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m working about **Flutter**
 
 - 💬 Ask me about **Flutter**
 
@@ -41,19 +41,6 @@
 # Github Stats
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- <br />
- 
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanbaskurt&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"  alt="HasanBaskurt"  />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
-  
-<br />
-
 
  
  <br />
@@ -73,6 +60,19 @@
 
 
  <br />
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanbaskurt&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"  alt="HasanBaskurt"  />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+
+  
+<br />
+
+
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=hasanbaskurt&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
