@@ -1,9 +1,3 @@
-<div align="center">
- <a href="https://github.com/hasanbaskurt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hasan+BAŞKURT;Software+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile" alt="Typing SVG" />
- </a>
-</div>
-
 # 🤵 About Me:
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 - 🔭 I've worked about **Flutter** for 3 years
@@ -60,7 +54,7 @@
 
 
 
-# Github Stats
+# Github Status
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
@@ -78,23 +72,6 @@
 </p>
  
   
-  
-
-
- <br />
- 
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanbaskurt&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"  alt="HasanBaskurt"  />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
-  
-<br />
-
-
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=hasanbaskurt&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
