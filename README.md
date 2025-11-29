@@ -1,10 +1,6 @@
 # 🤵 About Me:
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-- 🔭 I've worked about **Flutter** for 3 years
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **hasanbk1712@gmail.com**
+I am a software developer with a master’s degree in Computer Engineering and 4 years of professional experience in Flutter mobile application development. I have strong experience both in working collaboratively within a team and in managing the end-to-end development processes of a mobile application independently
 
 
 
